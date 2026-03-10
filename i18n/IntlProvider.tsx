@@ -1,14 +1,14 @@
 "use client";
 
 import { ReactNode, useMemo } from "react";
-import { NextIntlClientProvider } from "next-intl";
+import { type AbstractIntlMessages, NextIntlClientProvider } from "next-intl";
 import { usePathname } from "next/navigation";
 import viMessages from "@/messages/vi.json";
 import enMessages from "@/messages/en.json";
 
 type Locale = "vi" | "en";
 
-const messagesMap: Record<Locale, Record<string, string>> = {
+const messagesMap: Record<Locale, AbstractIntlMessages> = {
   vi: viMessages,
   en: enMessages,
 };
