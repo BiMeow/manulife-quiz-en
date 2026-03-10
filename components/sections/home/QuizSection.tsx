@@ -106,7 +106,7 @@ function QuizSection({ ...props }) {
         animate={{ scale: 1, opacity: 1 }}
         exit={{ scale: 0, opacity: 0 }}
         id="QuizSection"
-        className={cn("hideScrollbar relative flex h-dvh max-h-[800px] flex-1 flex-col overflow-auto")}
+        className={cn("hideScrollbar relative flex h-dvh max-h-[1000px] flex-1 flex-col overflow-auto")}
       >
         <Image
           id="quizBg"
@@ -173,9 +173,7 @@ function QuizSection({ ...props }) {
                     `${t("quiz_stage_incomplete_prefix")}${activeStage + 1}${t("quiz_stage_incomplete_suffix")}`,
                   );
                 } else if (activeStage > index) {
-                  message.warning(
-                    `${t("quiz_stage_completed_prefix")}${index + 1}${t("quiz_stage_completed_suffix")}`,
-                  );
+                  message.warning(`${t("quiz_stage_completed_prefix")}${index + 1}${t("quiz_stage_completed_suffix")}`);
                 } else {
                   if (openPopupSoundRef.current) {
                     openPopupSoundRef.current.currentTime = 0;

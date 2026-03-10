@@ -97,7 +97,7 @@ function Mobile({ ...props }) {
   }, [quizStep]);
   return (
     <>
-      <div id="Mobile" className={`relative size-full max-h-[800px] max-w-[500px]`}>
+      <div id="Mobile" className={`relative size-full max-h-[1000px] max-w-[500px]`}>
         <Image
           id="logo"
           src="/images/logo.png"
@@ -113,7 +113,11 @@ function Mobile({ ...props }) {
           className="flexCenter absolute top-4 right-4 z-50 h-10 w-10 rounded-full border border-white/30 bg-white/20 backdrop-blur-sm transition-all duration-300 hover:bg-white/30"
           aria-label={isMuted ? "Unmute" : "Mute"}
         >
-          {isMuted ? <IconVolumeOff className="text-xl text-white cursor-pointer" /> : <IconVolumeOn className="text-xl text-white cursor-pointer" />}
+          {isMuted ? (
+            <IconVolumeOff className="cursor-pointer text-xl text-white" />
+          ) : (
+            <IconVolumeOn className="cursor-pointer text-xl text-white" />
+          )}
         </button>
         <AnimatePresence>{content}</AnimatePresence>
       </div>

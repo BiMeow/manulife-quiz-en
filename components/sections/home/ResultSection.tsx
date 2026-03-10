@@ -93,7 +93,7 @@ function ResultSection() {
         animate={{ scale: 1, opacity: 1 }}
         exit={{ scale: 0, opacity: 0 }}
         id="ResultSection"
-        className={`hideScrollbar relative h-dvh max-h-[800px] overflow-auto`}
+        className={`hideScrollbar relative h-dvh max-h-[1000px] overflow-auto`}
         style={{ backgroundColor: result?.bgColor }}
       >
         <div className="relative h-full overflow-auto px-5 py-[65px]">
@@ -133,8 +133,13 @@ function ResultSection() {
                 <IconArrow />
               </a>
             ) : (
-              <div className="main-btn flexCenter w-full gap-3 rounded-[20px]!">
-                <p className="whitespace-pre-wrap">{t("result_cta")}</p>
+              <div className="main-btn flexCenter w-full flex-col gap-3 rounded-[20px]! text-[13px]!">
+                <p>Thank you for participating in the quiz!</p>
+                <p className="font-medium! text-[12px]!">
+                  For every quiz submission, Manulife will make a contribution on your behalf to support the Vietnam
+                  Young Physicians Association in purchasing medical equipment for gut health care.
+                </p>
+                <p>Together, we are helping build a healthier Vietnam💚</p>
               </div>
             )}
           </div>
