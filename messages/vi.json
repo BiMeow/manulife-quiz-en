@@ -1,0 +1,119 @@
+{
+  "intro_title": "KHÁM PHÁ\nTUỔI BAO TỬ\nCỦA BẠN",
+  "intro_subtitle": "Cơ hội trúng Apple Watch cực xịn\n từ Manulife!",
+  "intro_start": "Bắt đầu",
+
+  "login_title": "Cho Manulife biết tuổi thật của bạn để mình\nso sánh với tuổi bao tử nhé!",
+  "login_placeholder": "Nhập năm sinh của bạn",
+  "login_next": "Tiếp theo",
+  "login_warning": "Năm sinh phải sau năm 1900 và trước năm 2025!",
+
+  "quiz_stage_incomplete_prefix": "Vui lòng hoàn thành chặng ",
+  "quiz_stage_incomplete_suffix": " trước!",
+  "quiz_stage_completed_prefix": "Chặng ",
+  "quiz_stage_completed_suffix": " đã hoàn thành!",
+
+  "result_heading": "Kết quả tuổi bụng",
+  "result_real_age": "Tuổi thật",
+  "result_disclaimer": "Nội dung bài trắc nghiệm có sự cố vấn từ bác sĩ chuyên khoa Tiêu hóa nhằm khuyến khích lối sống lành mạnh. Mọi thông tin được cung cấp chỉ mang tính chất tham khảo. Kết quả trò chơi và khảo sát không nên được sử dụng để đưa ra bất kỳ quyết định điều trị y tế nào.",
+  "result_cta": "Hoàn thiện\nthông tin nhận thưởng",
+
+  "lang_vi": "Tiếng Việt",
+  "lang_en": "English",
+
+  "quiz": {
+    "complete_final_stage": "Chúc mừng bạn đã\nhoàn thành chặng cuối!",
+    "stages": {
+      "0": {
+        "content": "Một bữa ăn có thể mất từ 5 đến 7 tiếng (hoặc hơn) để tiêu hóa xong! 🍖 Thịt thà, đồ béo sẽ \"nằm lì\" lâu hơn trong bụng🥦 Còn rau củ, chất xơ thì nhẹ nhàng \"lướt qua\" nhanh hơn nhiều!",
+        "from": "📖 Paris Tourism Board",
+        "questions": {
+          "0": {
+            "question": "Khi bị deadline dí, bạn thường... ",
+            "answers": {
+              "0": "Chuẩn bị tủ đồ ăn lành mạnh, có thực mới vực được deadline",
+              "1": "Làm bạn với cà phê và thuốc lá để tỉnh táo",
+              "2": "Deadline quan trọng nhất. Quên ăn, quên ngủ"
+            }
+          },
+          "1": {
+            "question": "Bạn có phải team \"ăn sáng là chân ái\"?",
+            "answers": {
+              "0": "Ăn đều mỗi ngày, không bao giờ bỏ",
+              "1": "Tầm 3-4 ngày/tuần, lúc có lúc không",
+              "2": "Ít hơn 3 ngày/tuần, hoặc gần như... không ăn luôn"
+            }
+          }
+        }
+      },
+      "1": {
+        "content": "🍬 Đồ ngọt tiêu hóa \"nhanh như chớp\", nên bạn sẽ sớm thấy đói lại! 🥑 Còn đồ giàu đạm và chất béo thì tiêu hóa chậm rãi, giúp no lâu, đỡ thèm ăn vặt!",
+        "from": "📖 NASA",
+        "questions": {
+          "0": {
+            "question": "Công việc có thường khiến bạn \"căng như dây đàn\" không?",
+            "answers": {
+              "0": "Hiếm khi - sống chill sống khỏe",
+              "1": "Thỉnh thoảng thôi - stress nhẹ nhàng",
+              "2": "Thường xuyên và kéo dài - stress là bạn thân"
+            }
+          },
+          "1": {
+            "question": "Sau bữa trưa, bạn thường \"đãi bụng\" kiểu gì?",
+            "answers": {
+              "0": "Đi bộ nhẹ nhàng hoặc nghỉ ngơi thư giãn",
+              "1": "Vào làm việc ngay lập tức",
+              "2": "Nằm ườn liền, không nhúc nhích luôn"
+            }
+          }
+        }
+      },
+      "2": {
+        "content": "🛡️ Dạ dày là \"vệ sĩ\" đầu tiên bảo vệ cơ thể bạn! Nhờ có axit trong dạ dày, vi khuẩn và độc tố từ thức ăn sẽ bị \"xử đẹp\" ngay từ vòng gửi xe!",
+        "from": "📖 Oxford English Dictionary",
+        "questions": {
+          "0": {
+            "question": "Bạn có hút thuốc hoặc uống rượu/bia không?",
+            "answers": {
+              "0": "Không luôn, bụng tui thích lành mạnh",
+              "1": "Thỉnh thoảng (1-2 lần/tuần)",
+              "2": "Uống thường xuyên (3 lần trở lên/tuần) "
+            }
+          },
+          "1": {
+            "question": "Mối quan hệ của bạn với \"thể dục thể thao\"?",
+            "answers": {
+              "0": "\"Bạn đời\"- Tập thể dục 3–5 ngày/tuần",
+              "1": "\"Mập mờ\" - Tập khi nào rảnh hoặc có hứng",
+              "2": "\"Người lạ\" - Gần như không vận động"
+            }
+          }
+        }
+      }
+    },
+    "results": {
+      "0": {
+        "title": "BỤNG MẦM NON",
+        "subtitle": "Nhóm tốt",
+        "description": "Bao tử tươi rói - hệ tiêu hóa như tuổi mầm non\n\nLối sống khoa học, ăn ngủ điều độ, bụng nhẹ như gió, miễn dịch ngon lành.\n\nTiếp tục duy trì bằng cách chăm ăn rau, ngủ đều, cười nhiều nhé!",
+        "subDescription": "Tuổi bụng Mầm non"
+      },
+      "1": {
+        "title": "BỤNG TRUNG NIÊN",
+        "subtitle": "Nhóm trung bình",
+        "description": "Bao tử bạn có nền tảng tốt, đôi lúc hơi \"dễ dỗi\" do lối quen sống chưa tối ưu.\n\nĐây là độ tuổi rất dễ huấn luyện lại hệ tiêu hoá: ăn uống điều độ, bớt lo lắng cẳng thẳng là bụng lại cười toe ngay!",
+        "subDescription": "Tuổi bụng Trung niên"
+      },
+      "2": {
+        "title": "BỤNG XẾ CHIỀU",
+        "subtitle": "Nhóm báo động",
+        "description": "Bao tử từng trải - chỉ cần được yêu lại từ đầu!\n\nĐây là lúc bạn cần \"yêu thương lại bao tử\" bằng nhịp sống lành mạnh hơn: Ăn uống điều độ, chia nhỏ bữa, nhai kỹ, hạn chế rượu bia và cười nhiều hơn nhé!",
+        "subDescription": "Tuổi bụng Xế chiều"
+      }
+    },
+    "next": "Tiếp theo",
+    "stage_complete": "Chúc mừng bạn đã <br /> hoàn thành chặng {stage}!",
+    "did_you_know": "Bạn có biết?",
+    "next_stage": "Qua chặng tiếp theo"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "intro_title": "DISCOVER\nTHE AGE OF\nYOUR STOMACH",
+  "intro_subtitle": "Chance to win a super cool Apple Watch\nfrom Manulife!",
+  "intro_start": "Start",
+
+  "login_title": "Share your real age with Manulife so we can see how\nit compares to your stomach’s age!",
+  "login_placeholder": "Enter your year of birth",
+  "login_next": "Next",
+  "login_warning": "Year of birth must be after 1900 and before 2025!",
+
+  "quiz_stage_incomplete_prefix": "Please finish stage ",
+  "quiz_stage_incomplete_suffix": " first!",
+  "quiz_stage_completed_prefix": "Stage ",
+  "quiz_stage_completed_suffix": " is already completed!",
+
+  "result_heading": "Stomach age result",
+  "result_real_age": "Real age",
+  "result_disclaimer": "The quiz content is consulted by a gastroenterology specialist to encourage a healthy lifestyle. All information provided is for reference only. The game and survey results should not be used to make any medical treatment decisions.",
+  "result_cta": "Thank you for participating in the quiz!\nFor every quiz submission, Manulife will make a contribution on your behalf to support the Vietnam Young Physicians Association in purchasing medical equipment for gut health care.\n\nTogether, we are helping build a healthier Vietnam💚",
+
+  "lang_vi": "Vietnamese",
+  "lang_en": "English",
+
+  "quiz": {
+    "complete_final_stage": "Congrats on completing the final stage! ",
+    "stages": {
+      "0": {
+        "content": "A single meal can take 5 to 7 hours (or even longer) to fully digest!\n🍖 Heavy, fatty foods tend to linger in your stomach much longer.\n🥦 Meanwhile, veggies and fiber move through much more smoothly and quickly!",
+        "from": "📖 Paris Tourism Board",
+        "questions": {
+          "0": {
+            "question": "When a deadline is breathing down your neck, you usually…",
+            "answers": {
+              "0": "Stock up on healthy snacks — fuel first, finish strong",
+              "1": "Befriend coffee (and maybe a cigarette) to stay awake",
+              "2": "Deadline comes first. Skip meals, skip sleep"
+            }
+          },
+          "1": {
+            "question": "Are you on Team “Breakfast Is Life”?",
+            "answers": {
+              "0": "Every single day - never skip it",
+              "1": "About 3-4 days a week - depends on the mood",
+              "2": "Less than 3 days a week… or basically never"
+            }
+          }
+        }
+      },
+      "1": {
+        "content": "🍬 Sugary treats digest in a flash, so you’ll feel hungry again soon!\n🥑 Foods rich in protein and fat digest slowly, keeping you full longer and helping curb snacking!",
+        "from": "📖 NASA",
+        "questions": {
+          "0": {
+            "question": "Does work often leave you “stressed to the max”?",
+            "answers": {
+              "0": "Every single day - never skip it",
+              "1": "Sometimes - light stress only",
+              "2": "Frequently and for long stretches - stress is my BFF"
+            }
+          },
+          "1": {
+            "question": "After lunch, how do you give your stomach “a little treat”?",
+            "answers": {
+              "0": "Take a light walk or relax a bit",
+              "1": "Jump straight back to work",
+              "2": "Lie down completely - no moving at all"
+            }
+          }
+        }
+      },
+      "2": {
+        "content": "🛡️ Your stomach is your body’s first “bodyguard”! Thanks to stomach acid, bacteria and toxins from food get taken care of right at the gate!",
+        "from": "📖 Oxford English Dictionary",
+        "questions": {
+          "0": {
+            "question": "Do you smoke or drink alcohol/beer?",
+            "answers": {
+              "0": "Never - my stomach prefers to stay healthy",
+              "1": "Occasionally (1 - 2 times a week)",
+              "2": "Regularly (3 times a week or more)"
+            }
+          },
+          "1": {
+            "question": "What’s your relationship with “exercise & sports”?",
+            "answers": {
+              "0": "“My soulmate” - working out 3-5 days a week",
+              "1": "“Casual fling” - exercise when free or motivated",
+              "2": "“Stranger” - hardly ever move"
+            }
+          }
+        }
+      }
+    },
+    "results": {
+      "0": {
+        "title": "YOUNG GUT",
+        "subtitle": "Good group",
+        "description": "Fresh as a daisy — your digestive system is in its youth.\n\nWith a balanced lifestyle, regular sleep, and a light gut, your immunity is in great shape.\n\nKeep it up by eating more veggies, sleeping well, and smiling often!",
+        "subDescription": "Young gut age"
+      },
+      "1": {
+        "title": "MID-LIFE GUT",
+        "subtitle": "Average group",
+        "description": "Your stomach has a solid foundation but can be a bit \"sensitive\" due to habits that aren't quite optimal yet.\n\nThis is a great time to retrain your digestion: eat regularly, worry less, and your gut will thank you!",
+        "subDescription": "Mid-life gut age"
+      },
+      "2": {
+        "title": "MATURE GUT",
+        "subtitle": "Needs attention",
+        "description": "Your stomach has been through a lot — it just needs a little love!\n\nTime to \"love your gut again\" with healthier habits: eat regularly, smaller meals, chew well, cut back on alcohol, and smile more!",
+        "subDescription": "Mature gut age"
+      }
+    },
+    "next": "Next",
+    "stage_complete": "Congratulations! You've <br /> completed stage {stage}!",
+    "did_you_know": "Did you know?",
+    "next_stage": "Go to next stage"
+  }
+}
