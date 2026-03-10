@@ -23,6 +23,7 @@
 
   "quiz": {
     "complete_final_stage": "Congrats on completing the final stage! ",
+    "go_to_result": "On to the next stage",
     "stages": {
       "0": {
         "content": "A single meal can take 5 to 7 hours (or even longer) to fully digest!\n🍖 Heavy, fatty foods tend to linger in your stomach much longer.\n🥦 Meanwhile, veggies and fiber move through much more smoothly and quickly!",
@@ -114,6 +115,6 @@
     "next": "Next",
     "stage_complete": "Congratulations! You've <br /> completed stage {stage}!",
     "did_you_know": "Did you know?",
-    "next_stage": "Go to next stage"
+    "next_stage": "On to the next stage"
   }
 }
