@@ -23,6 +23,7 @@
 
   "quiz": {
     "complete_final_stage": "Chúc mừng bạn đã\nhoàn thành chặng cuối!",
+    "go_to_result": "Xem tuổi bao tử của bạn",
     "stages": {
       "0": {
         "content": "Một bữa ăn có thể mất từ 5 đến 7 tiếng (hoặc hơn) để tiêu hóa xong! 🍖 Thịt thà, đồ béo sẽ \"nằm lì\" lâu hơn trong bụng🥦 Còn rau củ, chất xơ thì nhẹ nhàng \"lướt qua\" nhanh hơn nhiều!",

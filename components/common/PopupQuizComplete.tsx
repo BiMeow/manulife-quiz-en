@@ -72,13 +72,11 @@ function PopupQuizComplete() {
             height={0}
             sizes="100vw"
           />
-          <h3 className="mb-5 text-center text-[18px] font-bold whitespace-pre-wrap">
-            {t("complete_final_stage")}
-          </h3>
+          <h3 className="mb-5 text-center text-[18px] font-bold whitespace-pre-wrap">{t("complete_final_stage")}</h3>
           <hr className="mb-6 border-[#e5e7eb]" />
           <p className="mb-2 text-center font-bold text-[#16a34a]">{t("did_you_know")}</p>
-         <p className="mb-2 text-center text-[#444] whitespace-pre-wrap">{t(`stages.2.content`)}</p>
-              <p className="mb-6 text-center text-sm text-[#a3a3a3]">{t(`stages.2.from`)}</p>
+          <p className="mb-2 text-center whitespace-pre-wrap text-[#444]">{t(`stages.2.content`)}</p>
+          <p className="mb-6 text-center text-sm text-[#a3a3a3]">{t(`stages.2.from`)}</p>
           <hr className="mb-6 border-[#e5e7eb]" />
           <button
             className="secondary-btn flexCenter w-full gap-3"
@@ -87,7 +85,7 @@ function PopupQuizComplete() {
               setQuizStep(quizStep + 1);
             }}
           >
-            <p>Xem tuổi bao tử của bạn</p>
+            <p>{t(`go_to_result`)}</p>
             <IconArrow />
           </button>
         </div>
