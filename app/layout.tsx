@@ -3,8 +3,8 @@ import "./globals.css";
 import { ComposeProviders } from "@/utils/ComposeProviders";
 
 export const metadata: Metadata = {
-  title: "Manulife | Bao tử bao tuổi",
-  description: "Manulife | Bao tử bao tuổi",
+  title: "Manulife | How old is your gut?",
+  description: "Manulife | How old is your gut?",
   icons: {
     icon: "/images/favicon.ico",
     shortcut: "/images/favicon.ico",
