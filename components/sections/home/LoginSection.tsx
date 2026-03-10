@@ -28,7 +28,7 @@ function LoginSection({ ...props }) {
         animate={{ scale: 1, opacity: 1 }}
         exit={{ scale: 0, opacity: 0 }}
         id="LoginSection"
-        className={cn("hideScrollbar flex h-dvh max-h-[800px] flex-1 flex-col overflow-auto")}
+        className={cn("hideScrollbar flex h-dvh max-h-[1000px] flex-1 flex-col overflow-auto")}
       >
         <Image
           id="introBanner"
@@ -40,9 +40,7 @@ function LoginSection({ ...props }) {
           sizes="100vw"
         />
         <div id="content" className={`cusContainer asdfsadf mt-4 flex h-full flex-col justify-between space-y-3 pb-2`}>
-          <h2 className="text-center leading-relaxed font-semibold whitespace-pre-wrap">
-            {t("login_title")}
-          </h2>
+          <h2 className="text-center leading-relaxed font-semibold whitespace-pre-wrap">{t("login_title")}</h2>
           <input
             type="tel"
             placeholder={t("login_placeholder")}
