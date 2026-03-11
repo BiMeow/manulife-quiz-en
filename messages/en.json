@@ -27,7 +27,7 @@
     "stages": {
       "0": {
         "content": "A single meal can take 5 to 7 hours (or even longer) to fully digest!\n🍖 Heavy, fatty foods tend to linger in your stomach much longer.\n🥦 Meanwhile, veggies and fiber move through much more smoothly and quickly!",
-        "from": "📖 Paris Tourism Board",
+        "from": "",
         "questions": {
           "0": {
             "question": "When a deadline is breathing down your neck, you usually…",
@@ -49,7 +49,7 @@
       },
       "1": {
         "content": "🍬 Sugary treats digest in a flash, so you’ll feel hungry again soon!\n🥑 Foods rich in protein and fat digest slowly, keeping you full longer and helping curb snacking!",
-        "from": "📖 NASA",
+        "from": "",
         "questions": {
           "0": {
             "question": "Does work often leave you “stressed to the max”?",
@@ -71,7 +71,7 @@
       },
       "2": {
         "content": "🛡️ Your stomach is your body’s first “bodyguard”! Thanks to stomach acid, bacteria and toxins from food get taken care of right at the gate!",
-        "from": "📖 Oxford English Dictionary",
+        "from": "",
         "questions": {
           "0": {
             "question": "Do you smoke or drink alcohol/beer?",
@@ -96,7 +96,7 @@
       "0": {
         "title": "YOUNG GUT",
         "subtitle": "Good group",
-        "description": "Fresh as a daisy — your digestive system is in its youth.\n\nWith a balanced lifestyle, regular sleep, and a light gut, your immunity is in great shape.\n\nKeep it up by eating more vegetables, getting quality sleep, and smiling often!",
+        "description": "Fresh as a daisy — your digestive system is in its youth.\n\nWith a balanced lifestyle, regular sleep, and a light, healthy gut, your immunity is in great shape.\n\nKeep it up by eating more vegetables, getting quality sleep, and smiling often!",
         "subDescription": "Young gut age"
       },
       "1": {
