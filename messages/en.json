@@ -34,14 +34,14 @@
             "answers": {
               "0": "Stock up on healthy snacks — fuel first, finish strong",
               "1": "Befriend coffee (and maybe a cigarette) to stay awake",
-              "2": "Deadline comes first. Skip meals, skip sleep"
+              "2": "Deadline comes first - skip meals, skip sleep"
             }
           },
           "1": {
             "question": "Are you on Team “Breakfast Is Life”?",
             "answers": {
-              "0": "Every single day - never skip it",
-              "1": "About 3-4 days a week - depends on the mood",
+              "0": "Yes, every single day - I never skip breakfast",
+              "1": "About 3-4 days a week - it depends on the mood",
               "2": "Less than 3 days a week… or basically never"
             }
           }
@@ -54,9 +54,9 @@
           "0": {
             "question": "Does work often leave you “stressed to the max”?",
             "answers": {
-              "0": "Every single day - never skip it",
-              "1": "Sometimes - light stress only",
-              "2": "Frequently and for long stretches - stress is my BFF"
+              "0": "Rarely — I live chill and stay healthy",
+              "1": "Sometimes - I have light stress only",
+              "2": "Frequently and for long stretches - stress is my best friend"
             }
           },
           "1": {
@@ -84,9 +84,9 @@
           "1": {
             "question": "What’s your relationship with “exercise & sports”?",
             "answers": {
-              "0": "“My soulmate” - working out 3-5 days a week",
-              "1": "“Casual fling” - exercise when free or motivated",
-              "2": "“Stranger” - hardly ever move"
+              "0": "“My soulmate” - I work out 3-5 days a week",
+              "1": "“Casual fling” - I exercise when free or motivated",
+              "2": "“Stranger” - I hardly ever move"
             }
           }
         }
@@ -96,19 +96,19 @@
       "0": {
         "title": "YOUNG GUT",
         "subtitle": "Good group",
-        "description": "Fresh as a daisy — your digestive system is in its youth.\n\nWith a balanced lifestyle, regular sleep, and a light gut, your immunity is in great shape.\n\nKeep it up by eating more veggies, sleeping well, and smiling often!",
+        "description": "Fresh as a daisy — your digestive system is in its youth.\n\nWith a balanced lifestyle, regular sleep, and a light gut, your immunity is in great shape.\n\nKeep it up by eating more vegetables, getting quality sleep, and smiling often!",
         "subDescription": "Young gut age"
       },
       "1": {
         "title": "MID-LIFE GUT",
         "subtitle": "Average group",
-        "description": "Your stomach has a solid foundation but can be a bit \"sensitive\" due to habits that aren't quite optimal yet.\n\nThis is a great time to retrain your digestion: eat regularly, worry less, and your gut will thank you!",
+        "description": "Your stomach has a solid foundation but may be a little \"sensitive\" due to some not-yet-optimal habits.\n\nThis is a great time to retrain your digestion: eat regularly, stress less, and your gut will thank you!",
         "subDescription": "Mid-life gut age"
       },
       "2": {
         "title": "MATURE GUT",
         "subtitle": "Needs attention",
-        "description": "Your stomach has been through a lot — it just needs a little love!\n\nTime to \"love your gut again\" with healthier habits: eat regularly, smaller meals, chew well, cut back on alcohol, and smile more!",
+        "description": "Your stomach has been through a lot — it just needs a little care!\n\nIt's time to \"love your gut again\" with healthier habits: eat regularly, enjoy smaller meals, chew your food well, cut back on alcohol, and smile more!",
         "subDescription": "Mature gut age"
       }
     },
