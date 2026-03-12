@@ -33,7 +33,7 @@ function LoginSection({ ...props }) {
         <div className="relative">
           <Image
             id="introBanner"
-            src="/images/home/login-banner.jpg"
+            src="/images/home/login-banner.png"
             alt="Manulife Quiz"
             className={`w-full object-cover`}
             width={0}
@@ -42,8 +42,8 @@ function LoginSection({ ...props }) {
           />
           <div className="absolute bottom-0 left-0 h-[50px] w-full bg-gradient-to-b from-transparent to-[#20a958]"></div>
         </div>
-        <div id="content" className={`cusContainer asdfsadf mt-4 flex h-full flex-col justify-between space-y-3 pb-2`}>
-          <h2 className="text-center text-[14px] leading-relaxed font-semibold whitespace-pre-wrap">
+        <div id="content" className={`cusContainer asdfsadf mt-4 flex h-full flex-col justify-around space-y-3 pb-2`}>
+          <h2 className="text-center text-[20px] leading-relaxed font-semibold whitespace-pre-wrap">
             {t("login_title")}
           </h2>
           <input
