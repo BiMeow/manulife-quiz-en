@@ -102,7 +102,7 @@ function Mobile({ ...props }) {
           id="logo"
           src="/images/logo.png"
           alt="Manulife Logo"
-          className={`absolute top-5 left-5 z-2 w-[36%] object-cover`}
+          className={`absolute top-5 left-5 z-2 w-[30%] object-cover`}
           width={0}
           height={0}
           sizes="100vw"
